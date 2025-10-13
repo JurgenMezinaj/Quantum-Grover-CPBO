@@ -33,11 +33,6 @@ U_{f,t,C} |x\rangle_n |y\rangle_1 =
 \end{cases}
 \]
 
-# Features
-
-- **Minimal Implementation**: Only 3 qubits for n=2 case
-- **Verified Correctness**: All test cases pass with quantum simulation
-- **Qiskit Compatible**: Ready for integration with Grover's algorithm
 
 # Installation
 
